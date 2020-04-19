@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Night Crave</string>
+    <string name="no_internet">Please Connect to the Internet and Reload</string>
+    <string name="reload">Click to Reload</string>
+</resources>
